@@ -1,8 +1,12 @@
 # f_local_database_shared_prefs_template
 
-Work on controller, usecase and repository
+
+
+https://user-images.githubusercontent.com/55262361/167519061-d2f2e8a0-7f1d-4bcc-a5b6-4e9b63354388.mp4
+
+
 
 Run the integration test with:  
 flutter drive --driver test_driver/integration_test.dart --target integration_test/app_test.dart
 
-![sharedDB](https://user-images.githubusercontent.com/4458129/167259641-3bee1263-342b-4156-be66-49e7dd3e3c27.gif)
+
